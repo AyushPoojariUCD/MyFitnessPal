@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VSCode
+.vscode/
+
+
+# Environment variables
+.env
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+
+# HTML/PDF output
+*.html
+*.pdf
+
+# Python Package Files
+dist/
+build/
+*.egg-info/
+
